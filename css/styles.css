@@ -10,5 +10,8 @@ h2 {
 }
 .text {
   font-style: normal;
-  color:white;
+  color:black;
+}
+img {
+  float: right;
 }
